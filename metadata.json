@@ -1,0 +1,6 @@
+{
+  "name": "QR Code Generator",
+  "description": "Aplikasi untuk membuat QR Code dari sebuah tautan atau teks URL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
